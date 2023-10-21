@@ -1,0 +1,5 @@
+ContextMenu_FR = {
+	ContextMenu_Play_Kaboom = "Jouer à Kaboom!",
+	ContextMenu_Play_DrOids= "Jouer à Dr. Oids",
+	ContextMenu_Play_PAWS_Pinball = "Jouer à PAWS Pinball",
+}
